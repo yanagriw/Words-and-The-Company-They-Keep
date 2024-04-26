@@ -1,0 +1,45 @@
+Class: :
+	on	in	me	:	from	at	only	under	between	
+
+Class: .
+	.	
+
+Class: as
+	as	and	for	(	but	than	if	or	when	
+
+Class: ,
+	,	
+
+Class: I
+	I	it	we	It	they	there	
+
+Class: with
+	much	with	that	this	by	all	which	nearly	how	what	differ	
+
+Class: short
+	certain	one	our	my	short	same	many	more	several	most	other	such	even	its	distinct	domesticated	great	slight	long	manner	less	an	different	domestic	wild	
+
+Class: conditions
+	facts	species	subject	)	cases	varieties	structure	conditions	variation	case	animals	plants	state	nature	individuals	races	breeds	
+
+Class: the
+	the	
+
+Class: of
+	of	
+
+Class: to
+	to	
+
+Class: will
+	will	has	could	have	may	is	do	would	must	cannot	can	shall	see	believe	
+
+Class: be
+	be	been	not	often	so	
+
+Class: some
+	some	any	these	a	each	very	their	
+
+Class: ;
+	;	In	are	The	
+

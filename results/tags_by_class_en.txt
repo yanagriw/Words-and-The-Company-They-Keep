@@ -1,0 +1,45 @@
+Class: WDT
+	WRB	VBG	WDT	WP	"	
+
+Class: IN
+	IN	
+
+Class: NN
+	NN	NNS	
+
+Class: NNP
+	NNP	SYM	NNPS	FW	
+
+Class: ,
+	.	,	:	(	
+
+Class: PRP
+	PRP	EX	
+
+Class: VBD
+	VBD	VBN	
+
+Class: JJ
+	JJ	CD	JJS	JJR	RBS	RBR	WP$	
+
+Class: DT
+	DT	PRP$	
+
+Class: CC
+	CC	
+
+Class: TO
+	TO	
+
+Class: MD
+	MD	
+
+Class: VB
+	VB	
+
+Class: VBZ
+	VBZ	VBP	
+
+Class: RB
+	RB	
+
