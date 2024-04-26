@@ -1,0 +1,21 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>Best Friends</title>
+</head>
+<body>
+    <h1>Best Friends</h1>
+    <a href="task1.py">Source code</a>
+    <br>
+    <a href="results/task1EN.txt">Results for English text</a>
+    <br>
+    <a href="results/task1CZ.txt">Results for Czech text</a>
+    <p>In this exercise, we explore word associations within English and Czech texts using the Pointwise Mutual Information (PMI) method. 
+        The task involves analyzing consecutive word pairs as well as distant word pairs (separated by at least one word but no more than 50 words) from the given datasets. 
+        Our objective is to compute the PMI for all possible word pairs, filtering out those where either word appears less than 10 times in the corpus. 
+        We then rank these pairs to identify the strongest associations, presenting the top 20 pairs for both datasets and both types of word pairings.</p>
+    <p>Negative PMI values, such as those observed for common pairs like "the" and ",", indicate a lower than expected co-occurrence based on the individual word frequencies. 
+        This suggests that these words appear together less frequently than would be predicted from their individual occurrences across the texts.</p>
+</body>
+</html>
